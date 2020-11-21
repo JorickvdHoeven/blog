@@ -1,1 +1,1 @@
-Sitemap: https://jorickvdhoeven.github.io/blog/sitemap.xml
+Sitemap: https://jorick.vanderhoeven.ch/blog/sitemap.xml
